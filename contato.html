@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<title>Náutica Fluir</title>
+	<link href="css/main.css" rel="stylesheet">
+	<link href="css/contato.css" rel="stylesheet">
+	<link rel="shortcut icon" href="imagens/favicon.png">
+
+</head>
+<body>
+	<div class="menu">
+		<div class="tamanho-menu">
+			<div class="logo">
+				<a href="index.html"><img src="imagens/logo_03.png" alt="Logo"></a>
+			</div>
+			<nav>
+				<ul>
+					<li><a href="index.html">HOME</a></li>
+					<li><a href="sobre.html">SOBRE</a></li>
+					<li><a href="noticias.html">NOTÍCIAS</a></li>
+					<li><a href="galeria.html">GALERIA</a></li>
+					<li><a href="podcast.html">PODCAST</a></li>
+					<li><a href="contato.html" id="pg">CONTATO</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+	<div class="org">
+		<div class="formulario">
+			<h2>INSCREVA-SE</h2>
+			<form method="post" action="php/envia.php">
+
+				<div class="escolha">
+					<label>
+						Nome: <input type="text" name="nome" id="nome" maxlength="40" size="50" required>
+					</label>
+				</div>
+
+				<div class="escolha">
+					<label>
+				        E-mail: <input type="email" name="email" id="email" autocomplete="off" size="50" required>
+				    </label>
+				</div>
+
+				<div class="escolha">
+					<label for="comentario">Deixe seu comentário</label>
+					<br>
+					<textarea name="comentario" id="comentario" rows="7" cols="50" required></textarea>
+				</div>
+				<div class="botao">
+					<input type="submit" value="Enviar" id="botao">
+				</div>
+			</form>
+		</div>
+		<div class="solemar">
+			<img src="imagens/solemar.png" alt="Solemar">
+			<a href="off.html"><h2>Tire suas dúvidas com o Solemar</h2></a>
+		</div>
+	</div>
+	<div class="final">
+		<div class="social">
+			<p>Entre em nossas redes sociais</p>
+			<a href="https://www.facebook.com/"><img src="imagens/face_06.png" alt="facebook"></a>
+			<a href="https://www.instagram.com/"><img src="imagens/insta_08.png" alt="instagram"></a>
+		</div>
+	</div>
+
+	<div class="rodape">
+		<div class="central-rodape">
+			<div class="footer">© Copyright | Náutica Fluir</div>
+		</div>
+	</div>
+
+</body>
+</html>
