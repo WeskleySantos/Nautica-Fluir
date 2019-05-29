@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.tudo{
+	margin: 0 auto;
+	width: 1000px;
+	padding-top: 240px;
+	text-align: center;
+}
+.ft-cara, .podcast, .ft-mulher{
+	display: inline-block;
+	width: 300px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.texto-final{
+	text-align: left;
+	font-size: 19px;
+}
+.texto-final h2{
+	text-align: right;
+	padding-top: 40px;
+	margin-bottom: 40px;
+}

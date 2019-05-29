@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+iframe{
+	margin-top: 80px;
+	margin-left: 150px;
+}
+/**************CENTRALIZAÇÃO*****************/
+
+.slider, .central{
+	margin: 0 auto;
+	width: 1000px;
+}
+
+/*****************Conteudo*********************/
+
+.slider{ padding-top: 210px; }
+
+.slider img{ border: 5px solid #e24217; }
+
+/***************texto com o boneco**************/
+.boneco{
+	display: inline-block;
+	width: 500px;
+}
+.boneco{
+	float: right;
+}
+.boneco img{
+	margin-top: 20px;
+	margin-right: 50px;
+}
+.bem-vindos{
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 30px;
+	width: 300px;
+}
+
+/****************texto com a barra****************/
+
+.geral{
+	background-color: #f4722a;
+	margin-top: 41px;
+	padding-top: 1px;
+	width: 100%;
+	height: 235px;
+}
+.descubra{
+	background-color: #FFF;
+	width: 100%;
+	height: 58px;
+}
+.centro-descubra{
+	margin: 0 auto;
+	width: 1000px;
+}
+.centro-descubra h2{
+	padding-top: 30px;
+	margin-left: 30px;
+}
+.central-ts{
+	margin: 0 auto;
+	width: 1000px;
+}
+.texto-secundario{
+	display: inline-block;
+	color: #FFF;
+	font-size: 20px;
+	margin-top: 25px;
+	margin-left: 30px;
+	width: 450px;
+}
+.mais{
+	display: inline-block;
+	margin-left: 350px;
+}
+.mais a{
+	color: #FFF;
+	border: 3px solid #FFF;
+	border-radius: 5px;
+	padding: 10px 15px;
+}
+.mais a:hover{
+	color: #f4722a;
+	background-color: #FFF;
+}
+
+/*****************VIDEO*********************/
+
+.midia{
+	margin: 0 auto;
+	width: 1000px;
+}
+.texto{
+	margin-bottom: 120px;
+	margin-top: 75px;
+}
+.pdc{
+	text-align: right;
+	margin-top: 80px;
+}

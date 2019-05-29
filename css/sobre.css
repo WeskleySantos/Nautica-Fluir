@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.conteudo{
+	margin: 0 auto;
+	padding-top: 240px;
+	width: 1000px;
+}
+.limite{
+	width: 1000px;
+}
+.limite p, .infografico p{
+	font-size: 18px;
+	margin-top: 40px;
+}
+.fts{
+	margin-top: 50px;
+	display: flex;
+	margin-left: 50px;
+}
+.fts img{
+	margin-left: 25px;
+	border: 3px solid #e24217;
+}
+.sub-texto{
+	padding-top: 60px;
+	padding-bottom: 50px;
+	text-align: right;
+}
+.infografico{ text-align: justify; }
+
+.infografico img{ margin-left: 350px; }

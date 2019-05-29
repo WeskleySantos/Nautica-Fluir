@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+h3{ display: inline-block; }
+
+p{
+	font-size: 18px;
+	text-align: justify;
+	font-family: Helvetica, sans-serif;
+}
+
+.padrao img{ width: 1000px; }
+
+.padrao{
+	margin: 0 auto;
+	width: 1000px;
+	padding-top: 250px;
+	padding-bottom: 80px;
+}
+.txt{
+	text-indent: 50px;
+	margin-top: 50px;
+}
+
+.data{ float: right; }
+
+.padrao a{ margin-top: 20px; }
