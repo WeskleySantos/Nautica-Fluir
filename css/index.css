@@ -16,7 +16,11 @@ iframe{
 
 .slider{ padding-top: 210px; }
 
-.slider img{ border: 5px solid #e24217; }
+.sld { 
+	background-image: url(../imagens/foto1_07.png);
+	width: 1000px;
+	height: 563px;
+}
 
 /***************texto com o boneco**************/
 .boneco{
