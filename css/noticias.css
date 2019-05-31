@@ -2,6 +2,14 @@
 
 h3{ font-size: 18px; }
 
+.rd-social{
+	width: 200px;
+	height: 29px;
+	display: flex;
+	position: relative;
+	left: 80%;
+}
+
 .noticias{
 	margin: 0 auto;
 	width: 1000px;
