@@ -23,11 +23,10 @@ p{
 
 .data{ float: right; }
 
-/* .padrao a{ margin-top: 20px; } */
-
-/* .autor, .autor a, .autor h4{
-	margin: 0;
-} */
+.autor, .autor a, .autor h4{
+	margin-top: 5px;
+	margin-left: 0;
+}
 
 .autor{ width: 880px; }
 
