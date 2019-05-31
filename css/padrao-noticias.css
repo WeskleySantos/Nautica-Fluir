@@ -25,8 +25,11 @@ p{
 
 .padrao a{ margin-top: 20px; }
 
+.autor{
+	width: 800px;
+}
 .rd-social{
-	width: 70px;
+	width: 200px;
 	height: 29px;
 	position: relative;
 	left: 50%;
