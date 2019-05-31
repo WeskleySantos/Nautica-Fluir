@@ -9,7 +9,9 @@
 .imm{
 	margin: 0 auto;
 	width: 1000px;
-	display: flex;
+}
+.imn div{
+	display: inline-block;
 }
 .imm img{
 	margin: 25px 4px;
