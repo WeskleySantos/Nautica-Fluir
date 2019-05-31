@@ -9,7 +9,7 @@
 .ft-cara, .podcast, .ft-mulher{
 	display: inline-block;
 	width: 300px;
-	margin-top: 50px;
+/* 	margin-top: 50px; */
 	margin-bottom: 50px;
 }
 .texto-final{
