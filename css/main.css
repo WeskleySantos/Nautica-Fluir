@@ -5,10 +5,6 @@ body{
 	font-family: 'Josefin Sans', sans-serif;
 	margin: 0;
 	text-align: justify;
-	padding-left: 2%;
-}
-p{
-	padding-right: 2%;
 }
 h2{
 	border-bottom: 1px solid #e24217;
