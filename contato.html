@@ -22,6 +22,7 @@
 					<li><a href="galeria.html">GALERIA</a></li>
 					<li><a href="podcast.html">PODCASTS</a></li>
 					<li><a href="contato.html" id="pg">CONTATO</a></li>
+					<li><a href="seu-caiaque.html">PINTE SEU CAIAQUE</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -29,27 +30,27 @@
 	<div class="org">
 		<div class="formulario">
 			<h2>INSCREVA-SE</h2>
-			<form method="POST" action="php/processa.php">
+			<form method="post" action="php/envia.php">
 
 				<div class="escolha">
 					<label>
-						Nome: <input type="text" name="name" id="nome" maxlength="40" size="50" required class="field">
+						Nome: <input type="text" name="nome" id="nome" maxlength="40" size="50" required>
 					</label>
 				</div>
 
 				<div class="escolha">
 					<label>
-				        E-mail: <input type="email" name="email" id="email" autocomplete="off" size="50" required class="field">
+				        E-mail: <input type="email" name="email" id="email" autocomplete="off" size="50" required>
 				    </label>
 				</div>
 
 				<div class="escolha">
 					<label for="comentario">Deixe seu comentário</label>
 					<br>
-					<textarea name="message" id="comentario" rows="7" cols="50" required></textarea>
+					<textarea name="comentario" id="comentario" rows="7" cols="50"></textarea>
 				</div>
 				<div class="botao">
-					<input type="submit" value="Enviar" id="botao" class="field">
+					<input type="submit" value="Enviar" id="botao">
 				</div>
 			</form>
 		</div>
@@ -61,7 +62,7 @@
 	<div class="final">
 		<div class="social">
 			<p>Entre em nossas redes sociais</p>
-			<a href="https://www.facebook.com/nauticafluir/"><img src="imagens/face_06.png" alt="facebook"></a>
+			<a href="https://www.facebook.com/"><img src="imagens/face_06.png" alt="facebook"></a>
 			<a href="https://www.instagram.com/"><img src="imagens/insta_08.png" alt="instagram"></a>
 		</div>
 	</div>
