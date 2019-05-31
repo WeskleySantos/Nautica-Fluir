@@ -25,16 +25,15 @@ p{
 
 .padrao a{ margin-top: 20px; }
 
-.autor{
-	width: 880px;
-	position: relative;
-	top: -20%;
+.autor, .autor a, .autor h4{
+	margin: 0;
 }
+
+.autor{ width: 880px; }
 
 .rd-social{
 	width: 120px;
 	height: 29px;
-	margin-bottom: 20px;
 }
 
 .box0{ display: flex; }
