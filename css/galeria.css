@@ -9,6 +9,7 @@
 .imm{
 	margin: 0 auto;
 	width: 1000px;
+	display: flex;
 }
 .imm img{
 	margin: 25px 4px;
