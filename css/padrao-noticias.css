@@ -28,7 +28,7 @@ p{
 .autor{
 	width: 880px;
 	position: relative;
-	bottom: 20%;
+	top: -20%;
 }
 
 .rd-social{
