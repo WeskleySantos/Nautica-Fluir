@@ -30,7 +30,7 @@ p{
 	height: 29px;
 	display: flex;
 	position: relative;
-	top: 40%;
+	bottom: 40%;
 	left: 50%;
 	margin-bottom: 20px;
 }
