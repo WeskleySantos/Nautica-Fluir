@@ -12,6 +12,7 @@
 }
 .imm img{
 	margin: 25px 4px;
+	border: 1px solid #e24217;
 }
 .auto{
 	margin: 0 auto;
