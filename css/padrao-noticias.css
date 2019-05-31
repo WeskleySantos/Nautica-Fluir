@@ -24,3 +24,12 @@ p{
 .data{ float: right; }
 
 .padrao a{ margin-top: 20px; }
+
+.rd-social{
+	width: 200px;
+	height: 29px;
+	display: flex;
+	position: relative;
+	left: 64%;
+	margin-bottom: 40px;
+}
