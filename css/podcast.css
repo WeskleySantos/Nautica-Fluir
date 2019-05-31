@@ -4,6 +4,7 @@
 	margin: 0 auto;
 	width: 1000px;
 	padding-top: 240px;
+	text-align: center;
 }
 .ft-cara, .podcast, .ft-mulher{
 	display: inline-block;
@@ -12,7 +13,7 @@
 	margin-bottom: 50px;
 }
 .texto-final{
-	text-align: left;
+	text-align: center;
 	font-size: 19px;
 }
 .texto-final h2{
